@@ -8,6 +8,14 @@ packages:
   gitUsername: rimabarman
   gitBranch: main
 services:
+- serviceName: project.siqa_git_1802proj.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.operations.actions:DBInsert
+  packages:
+  - name: SIQA_GIT_1802ProjProject
+    version: "1.0"
+- serviceName: project.siqa_git_1802proj.integrations:SIQAAdapterFlow
+  packages:
+  - name: SIQA_GIT_1802ProjProject
+    version: "1.0"
 - serviceName: project.siqa_git_1802proj.integrations:Sum
   packages:
   - name: SIQA_GIT_1802ProjProject
