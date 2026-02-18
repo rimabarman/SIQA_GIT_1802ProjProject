@@ -3,7 +3,7 @@ projectName: SIQA_GIT_1802ProjProject
 runtimes:
 - runtimeAlias: Cloud Designtime
   assets:
-  - name: Untitled Workflow
+  - name: Call_deepclonetest
     type: workflow
     uid: fl6386cf5a7b092423d17c56
     stepId: a0
