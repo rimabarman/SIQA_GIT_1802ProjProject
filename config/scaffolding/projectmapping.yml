@@ -1,7 +1,7 @@
 version: "1.0"
 projectName: SIQA_GIT_1802ProjProject
 runtimes:
-- runtimeAlias: Cloud Designtime
+- runtimeAlias: SIQA_ERT_1802
   assets:
   - name: Call_deepclonetest
     type: workflow
